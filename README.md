@@ -1,0 +1,2 @@
+- Fill your file name in config.txt
+- Run python test.py
